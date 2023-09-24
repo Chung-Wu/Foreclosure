@@ -23,3 +23,29 @@ not_trace.xlxs: 此檔案儲存不感興趣之資料，美次執行程式時，�
 4. 執行xlxs_vN.exe，以在target中產生兩分頁，分別為「追蹤檔案」及「不追蹤檔案」，以利篩選作業(若已有此兩分頁則可略過此步驟)。
 5. 進行人工篩選，將每筆資料篩選至兩分頁。
 6. 篩選完畢後，執行 save_vN.exe 將target中兩分頁的內容儲存至trace.xlxs及not_trace.xlxs中
+
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/ded1e5e4-d74e-49ed-a4d3-a2b872a35d8f) 需要具備這些檔案，才能進一步執行
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/8755cc60-ae25-466d-af9d-375d5fd4f1bf) 第一次執行程式，產生trace及not_trace
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/f3b48f3c-a1fa-46bc-835b-2ad424bd5508) 產生的結果
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/43ac8a9c-77a2-49e6-81fc-91e085ffb9b0) (上圖)再執行一次程式，產生「追蹤」及「不追蹤」分頁
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/834d21c3-330f-4b42-bcc9-262b4df33be5)
+ (上圖)複製資料至「追蹤」
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/0fd58c4f-a684-4b69-ba95-b660f3925637)
+ (上圖)複製資料至「不追蹤」
+ 
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/64567090-5a4f-4112-9223-11c4c7081f9c) 儲存「追蹤」及「不追蹤」至trace及not_trace
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/da8b5cb6-da24-4992-a19b-e05699dcfb89) (上圖)更改倒數第二筆資料，驗證後續的執行(改為第999拍)
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/fa97daeb-90f2-4820-be51-4b5c7c8d0a3b) 執行程式，進行篩選，刪除並更新重複的資料
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/df9b63d3-9400-4c4f-94a3-ffac565e36ed) (上圖)重複資訊皆刪除
+
+![image](https://github.com/Chung-Wu/Foreclosure/assets/35622830/52473e42-3be1-42ac-af4a-147695a9a881) 更新資料為最新資訊(第999拍)
+
+
+
+
+
